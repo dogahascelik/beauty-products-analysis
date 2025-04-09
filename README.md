@@ -1,5 +1,3 @@
-# beauty-products-analysis
-Exploratory data analysis on a beauty product dataset using Python.
 # 🛍️ Beauty Products Data Analysis
 
 This project explores a dataset of beauty products using Python and Pandas. The goal is to extract insights related to product pricing, customer ratings, and brand distribution in an e-commerce setting.
