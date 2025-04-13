@@ -17,9 +17,5 @@ This project explores a dataset of beauty products through both Python analysis 
 - Quantity and customer segment analysis
 - Tableau dashboard visualizes KPIs and sales per segment
 
-## 🖼️ Dashboard Preview
-
-![Preview](dashboard.png)
-
 ## 👩‍💻 Author
 Saadet Doga Hascelik – Digital Marketing & Data Science Student @ Emlyon Business School
